@@ -1,2 +1,2 @@
 # tic-tac-toe
-sakbc
+最強の三目ならべアルゴリズム
